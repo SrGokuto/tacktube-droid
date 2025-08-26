@@ -1,0 +1,25 @@
+{
+  "name": "tacktube-droid",
+  "version": "1.0.0",
+  "description": "Simple React Native app to download youtube (and other platforms) videos",
+  "keywords": [
+    "youtube",
+    "youtube-dl",
+    "download"
+  ],
+  "homepage": "https://github.com/SrGokuto/tacktube-droid#readme",
+  "bugs": {
+    "url": "https://github.com/SrGokuto/tacktube-droid/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrGokuto/tacktube-droid.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "SrGokuto",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
